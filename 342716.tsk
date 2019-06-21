@@ -9,91 +9,91 @@
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
       <Location longitude="9.4364566803" latitude="49.232486884"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="0.1"/>
   </Point>
   <Point type="Turn">
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
       <Location longitude="9.4506187439" latitude="49.2258168775"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="0.1"/>
   </Point>
   <Point type="Turn">
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
       <Location longitude="9.39388465881" latitude="49.220491436"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="0.1"/>
   </Point>
   <Point type="Turn">
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
       <Location longitude="9.39276885986" latitude="49.2282271518"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="0.1"/>
   </Point>
   <Point type="Turn">
     <Waypoint name="Baumerlenbach" id="0" comment=" 123.15" altitude="236.0">
       <Location longitude="9.4191667" latitude="49.2305556"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="0.1"/>
   </Point>
   <Point type="Turn">
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
       <Location longitude="9.43611335754" latitude="49.2324308372"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="0.1"/>
   </Point>
   <Point type="Turn">
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
       <Location longitude="9.43748664856" latitude="49.2280029452"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="0.1"/>
   </Point>
   <Point type="Turn">
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
       <Location longitude="9.41302490234" latitude="49.2256487144"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="0.1"/>
   </Point>
   <Point type="Turn">
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
       <Location longitude="9.41216659546" latitude="49.2299647185"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="0.1"/>
   </Point>
   <Point type="Turn">
     <Waypoint name="Baumerlenbach" id="0" comment=" 123.15" altitude="236.0">
       <Location longitude="9.4191667" latitude="49.2305556"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="0.1"/>
   </Point>
   <Point type="Turn">
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
       <Location longitude="9.43602752686" latitude="49.2324308372"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="0.1"/>
   </Point>
   <Point type="Turn">
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
       <Location longitude="9.43474006653" latitude="49.236690207"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="0.1"/>
   </Point>
   <Point type="Turn">
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
       <Location longitude="9.4111366272" latitude="49.2342803455"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="0.1"/>
   </Point>
   <Point type="Turn">
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
       <Location longitude="9.41216659546" latitude="49.230020768"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="0.1"/>
   </Point>
   <Point type="Turn">
     <Waypoint name="Baumerlenbach" id="0" comment=" 123.15" altitude="236.0">
       <Location longitude="9.4191667" latitude="49.2305556"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="0.1"/>
   </Point>
   <Point type="Finish">
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
