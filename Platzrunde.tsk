@@ -9,75 +9,75 @@
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="1700.0">
       <Location longitude="9.399732426126832" latitude="49.22330400129681"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="100.0"/>
+    <ObservationZone type="Cylinder" radius="10.0"/>
   </Point>
   <Point type="Area">
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="1700.0">
       <Location longitude="9.430087610239251" latitude="49.22613749365776"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="100.0"/>
+    <ObservationZone type="Cylinder" radius="10.0"/>
   </Point>
   <Point type="Area">
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="1700.0">
       <Location longitude="9.456189501700109" latitude="49.2239115005738"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="100.0"/>
+    <ObservationZone type="Cylinder" radius="10.0"/>
   </Point>
   <Point type="Area">
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="1700.0">
       <Location longitude="9.457733285387555" latitude="49.23023895165111"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="100.0"/>
+    <ObservationZone type="Cylinder" radius="10.0"/>
   </Point>
   <Point type="Area">
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="1700.0">
       <Location longitude="9.436353654717758" latitude="49.23260786599985"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="100.0"/>
+    <ObservationZone type="Cylinder" radius="10.0"/>
   </Point>
   <Point type="Area">
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="1700.0">
       <Location longitude="9.410674979965156" latitude="49.2299170593372"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="100.0"/>
+    <ObservationZone type="Cylinder" radius="10.0"/>
   </Point>
 
   <Point type="Area">
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="1700.0">
       <Location longitude="9.411402073526716" latitude="49.22566040967222"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="100.0"/>
+    <ObservationZone type="Cylinder" radius="10.0"/>
   </Point>
   <Point type="Area">
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="1700.0">
       <Location longitude="9.437371650913079" latitude="49.22834804321811"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="100.0"/>
+    <ObservationZone type="Cylinder" radius="10.0"/>
   </Point>
   <Point type="Area">
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="1700.0">
-      <Location longitude="9.430087610239251" latitude="49.22613749365776"/>
+      <Location longitude="9.436353654717758" latitude="49.23260786599985"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="100.0"/>
+    <ObservationZone type="Cylinder" radius="10.0"/>
   </Point>
   <Point type="Area">
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="1700.0">
       <Location longitude="9.435548446859608" latitude="49.23665552164393"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="100.0"/>
+    <ObservationZone type="Cylinder" radius="10.0"/>
   </Point>
   <Point type="Area">
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="1700.0">
       <Location longitude="9.409340264194551" latitude="49.23412610522407"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="100.0"/>
+    <ObservationZone type="Cylinder" radius="10.0"/>
   </Point>
   
   <Point type="Area">
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="1700.0">
       <Location longitude="9.410674979965156" latitude="49.2299170593372"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="100.0"/>
+    <ObservationZone type="Cylinder" radius="10.0"/>
   </Point>
   <Point type="Start">
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="1700.0">
