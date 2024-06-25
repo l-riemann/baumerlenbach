@@ -83,7 +83,7 @@
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="1700.0">
       <Location longitude="9.398544386308229" latitude="49.22888325226913"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="10.0"/>
+    <ObservationZone type="Cylinder" radius="1.0"/>
   </Point>
 </Task>
 
