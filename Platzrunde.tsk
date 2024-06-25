@@ -21,25 +21,25 @@
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="1700.0">
       <Location longitude="9.456189501700109" latitude="49.2239115005738"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="100.0"/>
+    <ObservationZone type="Cylinder" radius="10.0"/>
   </Point>
   <Point type="Area">
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="1700.0">
       <Location longitude="9.457733285387555" latitude="49.23023895165111"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="1000.0"/>
+    <ObservationZone type="Cylinder" radius="100.0"/>
   </Point>
   <Point type="Area">
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="1700.0">
       <Location longitude="9.436353654717758" latitude="49.23260786599985"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="10000.0"/>
+    <ObservationZone type="Cylinder" radius="1000.0"/>
   </Point>
   <Point type="Area">
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="1700.0">
       <Location longitude="9.410674979965156" latitude="49.2299170593372"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="10.0"/>
+    <ObservationZone type="Cylinder" radius="10000.0"/>
   </Point>
 
   <Point type="Area">
